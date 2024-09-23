@@ -1,0 +1,9 @@
+anthropic
+python-dotenv
+# system install portaudio
+pyaudio
+speechrecognition
+elevenlabs
+pydub
+groq
+pillow

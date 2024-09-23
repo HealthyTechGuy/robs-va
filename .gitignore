@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Except these files or directories
+!.gitignore
+!/README.md
+!/requirements.txt
+!/va.py
